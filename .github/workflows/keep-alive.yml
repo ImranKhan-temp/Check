@@ -16,7 +16,7 @@ jobs:
           set -euo pipefail
 
           # === CONFIGURE THIS ===
-          TARGET_URL="https://www.imrankhan.linkpc.net"
+          TARGET_URL="https://mdimran.pro.bd"
           MAX_JITTER=10
           # ======================
 
